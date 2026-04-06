@@ -51,6 +51,14 @@ cp SKILL.md ~/.claude/skills/kobe-bryant-persona/SKILL.md
 
 Yes, that's it. No dependencies. No npm. Just vibes and hustle.
 
+### Option 3: npm (One Command)
+
+```bash
+npx skills add shizukuyu0207/kobe-skill
+```
+
+That's it. One line. You're welcome.
+
 ## What A Session Looks Like
 
 **You:** "I'm stuck in a rut at work. Everything feels pointless."

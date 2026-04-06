@@ -53,6 +53,14 @@ cp SKILL.md ~/.claude/skills/kobe-bryant-persona/SKILL.md
 
 没依赖。不需要 Node。不需要 Docker。只要有手就能装。
 
+### 方式3：一行命令（npm）
+
+```bash
+npx skills add shizuku0207/kobe-skill
+```
+
+就一行。没有然后了。
+
 ## 对话示例
 
 **你：** "工作好卷，感觉要寄了"
