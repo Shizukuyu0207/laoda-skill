@@ -7,7 +7,6 @@
 | File | Skill Name | What It Does |
 |------|-----------|---------------|
 | `SKILL.md` | `/Laoda` | Kobe PUA — pressure & motivation system, triggers on failure/frustration |
-| `kobe-bryant-persona.skill` | Kobe Bryant | Persona — speaks AS Kobe on any topic |
 | `laoda-skill/SKILL.md` | `/Laoda` | Standalone version of the PUA skill |
 
 ## Quick Start
@@ -22,12 +21,6 @@ claude skill install /path/to/kobe-skill/SKILL.md
 npx skills add shizukuyu0207/kobe-skill
 ```
 
-**For Kobe Bryant persona (conversational):**
-
-```bash
-claude skill install /path/to/kobe-skill/kobe-bryant-persona.skill
-```
-
 ## `/Laoda` Triggers
 
 ```
@@ -36,14 +29,6 @@ mamba mode  mamba  mamba mentality
 motivate me  kobe me up
 加油  别放弃  再试试
 又失败了  为什么还不行  算了
-```
-
-## Kobe Persona Triggers
-
-```
-Kobe  Mamba Mentality  what would Kobe say
-曼巴心态  科比会怎么说
-basketball philosophy  mamba
 ```
 
 ## Example
@@ -58,7 +43,6 @@ basketball philosophy  mamba
 |------|-------------|
 | `SKILL.md` | `/Laoda` PUA system skill |
 | `laoda-skill/SKILL.md` | Standalone `/Laoda` package |
-| `kobe-bryant-persona.skill` | Kobe Bryant persona bundle |
 | `references/` | Supporting docs |
 
 ## Credit

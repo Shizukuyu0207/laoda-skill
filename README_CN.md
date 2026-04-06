@@ -7,7 +7,6 @@
 | 文件 | 技能名 | 用途 |
 |------|--------|------|
 | `SKILL.md` | `/Laoda` | 科比版PUA — 压力激励系统，失败/挫折时触发 |
-| `kobe-bryant-persona.skill` | Kobe Bryant | 角色技能 — 以科比的口吻说话 |
 | `laoda-skill/SKILL.md` | `/Laoda` | 独立版PUA技能包 |
 
 ## 快速安装
@@ -22,12 +21,6 @@ claude skill install /path/to/kobe-skill/SKILL.md
 npx skills add shizukuyu0207/kobe-skill
 ```
 
-**科比角色模式（对话）：**
-
-```bash
-claude skill install /path/to/kobe-skill/kobe-bryant-persona.skill
-```
-
 ## `/Laoda` 触发词
 
 ```
@@ -36,13 +29,6 @@ mamba mode  mamba  mamba mentality
 motivate me  kobe me up
 加油  别放弃  再试试  你行的
 又失败了  为什么还不行  算了  做不了
-```
-
-## Kobe 角色触发词
-
-```
-Kobe  Mamba Mentality  what would Kobe say
-曼巴心态  科比会怎么说  科比视角
 ```
 
 ## 示例
@@ -57,7 +43,6 @@ Kobe  Mamba Mentality  what would Kobe say
 |------|------|
 | `SKILL.md` | `/Laoda` PUA系统技能 |
 | `laoda-skill/SKILL.md` | 独立版PUA安装包 |
-| `kobe-bryant-persona.skill` | Kobe Bryant角色包 |
 | `references/` | 支撑文档 |
 
 ## 致谢
