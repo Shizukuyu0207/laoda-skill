@@ -72,6 +72,19 @@ Question for you: what are you gonna do about it?"
 | `SKILL.md` | The actual skill code |
 | `kobe-skill.skill` | Packaged bundle for easy install |
 
+## So About That "Lao Da" Meme...
+
+Yeah, Chinese fans call him "Lao Da." Here's the deal:
+
+- **The Eagle County incident (2003)** — He was charged, then wasn't. Internet did what the internet does. The nickname stuck.
+- **The Shaq drama** — They had... differences. Both were wrong. Both were incredible. It's water under the bridge.
+- **Name puns** — "Kobe" gets memed a lot. You had one job, internet.
+
+**Kobe's take on it:**
+*"It happened. I learned from it. Watched the film. Moved on."*
+
+That's it. That's the whole response. He doesn't re-litigate the past. The court is forward-only.
+
 ## Fine Print
 
 This is a fan-made skill. Kobe Bryant's estate didn't approve this (probably), his family doesn't know about this (definitely), and no part of this is official. It's just an homage to someone who genuinely changed how people think about dedication.
