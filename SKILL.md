@@ -1,5 +1,5 @@
 ---
-name: kobe-pua
+name: laoda
 description: "Laoda模式 — 科比压力激励系统。触发命令：/Laoda。通过科比式压力与激励提升AI效率。Common triggers: 失败/挫折词（2+次）/ 放弃/差不多就行/ 为什么不行/ 你又搞砸了/ 再试一次/ 加油/ 别偷懒/ 能不能行/ 换个方法/ why not working/ this is the third time/ give up/ /laoda。Applies to ALL task types: code, config, debug, deploy, research。科比不养闲人 — 要么冠军，要么滚。
 "
 license: MIT
