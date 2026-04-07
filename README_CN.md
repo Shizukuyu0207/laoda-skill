@@ -1,24 +1,25 @@
-# Kobe Skill
+# laoda Skill
 
-> 你的私人凌晨4点健身伙伴——不用睡觉，永远有话要说。
+> 你的私人凌晨4点自律牢大——永远训练，永远有话要说。
 
-## 仓库里有什么
+## 仓库内容
 
 | 文件 | 技能名 | 用途 |
 |------|--------|------|
-| `SKILL.md` | `/laoda` | 科比版PUA — 压力激励系统，失败/挫折时触发 |
-| `laoda-skill/SKILL.md` | `/laoda` | 独立版PUA技能包 |
+| `SKILL.md` | `/laoda` | 科比自我PUA — 压力激励系统，失败/挫折/打铁时触发 |
+| `laoda-skill/SKILL.md` | `/laoda` | 独立版技能包 |
 
 ## 快速安装
 
 **`/laoda` 模式（压力激励）：**
 
 ```bash
-# 安装
+# npm（推荐）
+npx skills add shizukuyu0207/kobe-skill
+
+# 或者
 claude skill install /path/to/kobe-skill/SKILL.md
 
-# 或 npm
-npx skills add shizukuyu0207/kobe-skill
 ```
 
 ## `/laoda` 触发词
@@ -41,8 +42,8 @@ motivate me  kobe me up
 
 | 文件 | 说明 |
 |------|------|
-| `SKILL.md` | `/laoda` PUA系统技能 |
-| `laoda-skill/SKILL.md` | 独立版PUA安装包 |
+| `SKILL.md` | `/laoda` 系统技能 |
+| `laoda-skill/SKILL.md` | 独立版安装包 |
 | `references/` | 支撑文档 |
 
 ## 致谢
@@ -51,4 +52,4 @@ motivate me  kobe me up
 
 ---
 
-*"你要是想让我做件事？告诉我我做不到。"* —— 科比看完这个仓库之后如是说
+*"What can I say,Mamba out."* —— 科比看完这个仓库之后如是说

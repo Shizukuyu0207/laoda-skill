@@ -1,24 +1,25 @@
-# Kobe Skill
+# Laoda Skill
 
-> Your personal 4am gym buddy who never sleeps and always has opinions.
+> Your personal self-discipline at 4 a.m. is firm - always train, always have something to say
 
 ## Two Skills in This Repo
 
 | File | Skill Name | What It Does |
 |------|-----------|---------------|
 | `SKILL.md` | `/Laoda` | Kobe PUA — pressure & motivation system, triggers on failure/frustration |
-| `laoda-skill/SKILL.md` | `/Laoda` | Standalone version of the PUA skill |
+| `laoda-skill/SKILL.md` | `/Laoda` | Standalone version of the skill |
 
 ## Quick Start
 
-**For `/Laoda` mode (PUA pressure system):**
+**For `/Laoda` mode ( pressure system):**
 
 ```bash
-# Install
-claude skill install /path/to/kobe-skill/SKILL.md
 
-# Or npm
+# Install via npm(recommended)
 npx skills add shizukuyu0207/kobe-skill
+
+# or
+claude skill install /path/to/kobe-skill/SKILL.md
 ```
 
 ## `/Laoda` Triggers
@@ -41,7 +42,7 @@ motivate me  kobe me up
 
 | File | Description |
 |------|-------------|
-| `SKILL.md` | `/Laoda` PUA system skill |
+| `SKILL.md` | `/Laoda` System skill |
 | `laoda-skill/SKILL.md` | Standalone `/Laoda` package |
 | `references/` | Supporting docs |
 
@@ -49,6 +50,9 @@ motivate me  kobe me up
 
 Framework inspired by [PUA skill](https://github.com/tanweai/pua) — Kobe philosophy replaces corporate flavor text with Mamba Mentality.
 
+## Why Laoda?
+In fact, everyone can be a Laoda
+
 ---
 
-*"You want me to do something? Tell me I can't do it."* — What Kobe would've said about this repo
+*"What can I say,Mamba out."* — What Kobe would've said about this repo
