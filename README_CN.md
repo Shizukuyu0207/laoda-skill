@@ -6,12 +6,12 @@
 
 | 文件 | 技能名 | 用途 |
 |------|--------|------|
-| `SKILL.md` | `/Laoda` | 科比版PUA — 压力激励系统，失败/挫折时触发 |
-| `laoda-skill/SKILL.md` | `/Laoda` | 独立版PUA技能包 |
+| `SKILL.md` | `/laoda` | 科比版PUA — 压力激励系统，失败/挫折时触发 |
+| `laoda-skill/SKILL.md` | `/laoda` | 独立版PUA技能包 |
 
 ## 快速安装
 
-**`/Laoda` 模式（压力激励）：**
+**`/laoda` 模式（压力激励）：**
 
 ```bash
 # 安装
@@ -21,10 +21,10 @@ claude skill install /path/to/kobe-skill/SKILL.md
 npx skills add shizukuyu0207/kobe-skill
 ```
 
-## `/Laoda` 触发词
+## `/laoda` 触发词
 
 ```
-/Laoda  /laoda  laoda  老打  老爹
+/laoda  /laoda  laoda  牢大  牢大
 mamba mode  mamba  mamba mentality
 motivate me  kobe me up
 加油  别放弃  再试试  你行的
@@ -33,7 +33,7 @@ motivate me  kobe me up
 
 ## 示例
 
-**你：** `/Laoda 工作好卷，感觉要寄了`
+**你：** `/laoda 工作好卷，感觉要寄了`
 
 **Kobe：** "让我把话说清楚——球场不在乎你的感受。它只在乎你能做什么。你觉得我职业生涯没想过摆烂？我想过。但我没有。工作会救你。每次都是。下一题：你打算怎么办？"
 
@@ -41,7 +41,7 @@ motivate me  kobe me up
 
 | 文件 | 说明 |
 |------|------|
-| `SKILL.md` | `/Laoda` PUA系统技能 |
+| `SKILL.md` | `/laoda` PUA系统技能 |
 | `laoda-skill/SKILL.md` | 独立版PUA安装包 |
 | `references/` | 支撑文档 |
 
